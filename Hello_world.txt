@@ -1,1 +1,9 @@
 Estamos usando los comando de git status, git add , git commit, todos los basicos para trabajar con consola y repositories
+HTML: A language that determines how documents and web pages are displayed in a web browser,
+       the lenguages for the building blocks of any website.
+
+CSS(Cascading Style Sheets): The language that determines how a documents created in HTML is styled(Color,font Styles,
+                                     layout and responsive feztures).
+
+JAVASCRIPT: Allows you to changes CSS & HTML elements on your website after the site has been loaded, which gives you the ability 
+            to make your site more interative and engaging for users.
