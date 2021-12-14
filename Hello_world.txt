@@ -1,0 +1,1 @@
+Estamos usando los comando de git status, git add , git commit, todos los basicos para trabajar con consola y repositories
